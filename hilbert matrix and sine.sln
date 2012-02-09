@@ -1,7 +1,7 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hilbert matrix and sine", "hilbert matrix and sine\hilbert matrix and sine.vcproj", "{27F92478-0360-4674-B7ED-64EFE9CE081B}"
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hilbert matrix and sine", "hilbert matrix and sine\hilbert matrix and sine.vcxproj", "{27F92478-0360-4674-B7ED-64EFE9CE081B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
