@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hilbert matrix and sine", "hilbert matrix and sine\hilbert matrix and sine.vcproj", "{27F92478-0360-4674-B7ED-64EFE9CE081B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27F92478-0360-4674-B7ED-64EFE9CE081B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{27F92478-0360-4674-B7ED-64EFE9CE081B}.Debug|Win32.Build.0 = Debug|Win32
+		{27F92478-0360-4674-B7ED-64EFE9CE081B}.Release|Win32.ActiveCfg = Release|Win32
+		{27F92478-0360-4674-B7ED-64EFE9CE081B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
