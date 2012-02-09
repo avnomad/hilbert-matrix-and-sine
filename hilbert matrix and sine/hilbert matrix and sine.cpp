@@ -53,7 +53,7 @@ public:
 		register unsigned int c,i,n;
 		double x;
 
-		//c = order*order;	// but the # of elements in the matrix in c.
+		//c = order*order;	// put the # of elements in the matrix in c.
 		p = A;	// set p at the beginning of A.
 
 		c = 0;
@@ -89,7 +89,7 @@ using namespace System;
 int main(array<System::String ^> ^args)
 {
 	clock_t outTime , inTime;
-	ofstream outFile("c:/stats.txt");	// variables required for measuring and storing the results.
+	ofstream outFile("stats.txt");	// variables required for measuring and storing the results.
 
 	unsigned int order = 0;	// variables needed for the program itself.
 	double *A;
