@@ -74,18 +74,17 @@ namespace HilbertMatrixAndSine {
 
 		void execute()
 		{
-			unsigned int c;
+
+			std::ostringstream sout;
 			ASL::Matrix A;
 
-			c = ::clock();
+			ASL::tic();
 			A = ASL::hilb(5000);
-			c = ::clock() - c;
-			Form1::Text = "";
-			Form1::Text += c;
-		}
-	
+			ASL::toc(sout);
 
-	
-	};
-}
+			Form1::Text = gcnew String(sout.str().c_str());
+		} // end function execute
 
+	}; // end ref class Form1
+
+} // namespace HilbertMatrixAndSine
