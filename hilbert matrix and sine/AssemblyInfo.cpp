@@ -14,9 +14,9 @@ using namespace System::Security::Permissions;
 [assembly:AssemblyTitleAttribute("HilbertMatrixAndSine")];
 [assembly:AssemblyDescriptionAttribute("")];
 [assembly:AssemblyConfigurationAttribute("")];
-[assembly:AssemblyCompanyAttribute("The Dark Side")];
+[assembly:AssemblyCompanyAttribute("-")];
 [assembly:AssemblyProductAttribute("HilbertMatrixAndSine")];
-[assembly:AssemblyCopyrightAttribute("Copyright (c) The Dark Side 2008")];
+[assembly:AssemblyCopyrightAttribute("Copyright (C) 2008, 2012 Vaptistis Anogeianakis")];
 [assembly:AssemblyTrademarkAttribute("")];
 [assembly:AssemblyCultureAttribute("")];
 
